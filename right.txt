@@ -1,0 +1,49 @@
+<html>
+<head>
+<style>
+
+#name{
+margin:10px;
+font-size:30px;
+}
+.circle{
+margin-left:-18px;
+margin-top:-70px;
+position:absolute;
+float:top;
+height:50px;
+width:600px;
+background-color:#ffffff;
+border-radius:25px;
+}
+body{
+background-image:url("gray.jpg");
+font-family:Agency FB;
+margin:0px;
+}
+.header{
+position:relative;
+margin-left:-20px;
+height:100px;
+width:5000px;
+background-color:#e9e7eb;
+}
+h1{
+font-size:40px;
+font-family:Agency FB;
+color:#999999;
+
+}
+body{
+margin-left:20px;
+
+}
+</style>
+</head>
+<body>
+<div class="header">
+
+</div>
+<div class="circle"><p id="name"><font color="#2fd2f0">[MY PORTFOLIO]</font>-[CHRISTIAN JAY B. MANZANADES]</div>
+</body>
+</html>
